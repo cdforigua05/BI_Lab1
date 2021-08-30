@@ -3,5 +3,7 @@
 ## Integrantes
 
 Natalia Sanabria Forero - 201532265
+
 Jorge Esguerra -
+
 Christian Forigua
