@@ -6,4 +6,4 @@ Natalia Sanabria Forero - 201532265
 
 Jorge Esguerra - 201719920
 
-Christian Forigua
+Christian Forigua - 201713023
